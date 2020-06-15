@@ -1,1 +1,1 @@
-# Principal-Component-Analysis--PCA-
+The iris dataset consists of 4 attributes namely sepal length, sepal width, petal length and petal width. These are the 3 target classes in this dataset. This data is used for classification problems, where we can predict species of interest based on the attributes given using Principal Component Analysis (PCA).
